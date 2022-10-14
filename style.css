@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+
+body{
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.container{
+    width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+.img img{
+    width: 120px;
+    height: 120px;
+    border: 5px #11999e solid;
+    border-radius: 100px;
+    float: left;
+}
+
+
+
+.name{
+    float: left;
+    padding: 30px;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+
+
+
+.contact{
+    float: right;
+    padding: 30px;
+}
+
+
+
+.contact a{
+    text-decoration: none;
+    color: #11999e;
+    font-weight: bold;
+}
+
+
+
+.contact a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+
+
+.clear-div{
+    clear: both;
+}
+
+
+
+hr{
+    border: 3px solid black;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+#Personal-information{
+    padding-bottom: 15px;
+}
+
+
+
+.personal-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.personal-right{
+    float: left;
+    width: 70%;
+    font-weight: 550;
+}
+
+
+
+.common-hr{
+    border: 1px solid black;
+    margin-bottom: none;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+
+#Work-experience{
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.work-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.work-right{
+    float: left;
+    width: 70%;
+}
+
+
+
+.work-right p{
+    font-size: small;
+    padding-left: 10px;
+    text-align: justify;
+}
+
+
+
+.work-right h5{
+    padding-left: 5px;
+}
+
+
+
+
+#key-skills{
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.skill-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.skill-right{
+    float: left;
+    width: 70%;
+}
+
+
+
+
+.skill-right p{
+    font-size: 15px;
+    padding-left: 5px;
+    text-align: justify;
+}
+
+
+
+#education{
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.education-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.education-right{
+    float: left;
+    width: 70%;
+}
+
+
+
+.edu-ri-left{
+    float: left;
+}
+
+
+
+.edu-ri-center{
+    float: left;
+    padding-left: 20px;
+}
+
+
+
+.edu-ri-right{
+    float: left;
+    padding-left: 20px;
+}
+
+
+
+#awards{
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.awards-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.awards-right{
+    float: left;
+    width: 70%;
+}
+
+
+
+.awards-right ul{
+    list-style: square;
+}
+
+
+
+#refer{
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.refer-left{
+    float: left;
+    width: 30%;
+}
+
+
+
+.refer-right{
+    float: left;
+    width: 70%;
+}
+
+
+
+.refer-ri-left{
+    float: left;
+}
+
+
+
+.refer-ri-right{
+    float: right;
+}
+
+
+
+.foot{
+    padding-top: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+
+
+.foot a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+
+
+.foot p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+.foot a:hover{
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+}
+
